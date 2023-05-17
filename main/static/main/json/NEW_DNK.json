@@ -1,0 +1,402 @@
+{
+    "287":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":1.77,
+        "Flag Codes":null
+    },
+    "288":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1981,
+        "Value":1.83,
+        "Flag Codes":null
+    },
+    "289":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1982,
+        "Value":2.05,
+        "Flag Codes":null
+    },
+    "290":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1983,
+        "Value":2.12,
+        "Flag Codes":null
+    },
+    "291":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1984,
+        "Value":2.26,
+        "Flag Codes":null
+    },
+    "292":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":2.3,
+        "Flag Codes":null
+    },
+    "293":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":2.34,
+        "Flag Codes":null
+    },
+    "294":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":2.35,
+        "Flag Codes":null
+    },
+    "295":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":2.42,
+        "Flag Codes":null
+    },
+    "296":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":2.46,
+        "Flag Codes":null
+    },
+    "297":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":2.5,
+        "Flag Codes":null
+    },
+    "298":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":2.43,
+        "Flag Codes":null
+    },
+    "299":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":2.6,
+        "Flag Codes":"B"
+    },
+    "300":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":2.62,
+        "Flag Codes":null
+    },
+    "301":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":2.64,
+        "Flag Codes":null
+    },
+    "302":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":2.68,
+        "Flag Codes":null
+    },
+    "303":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.7,
+        "Flag Codes":null
+    },
+    "304":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":2.78,
+        "Flag Codes":null
+    },
+    "305":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.86,
+        "Flag Codes":null
+    },
+    "306":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.88,
+        "Flag Codes":null
+    },
+    "307":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.91,
+        "Flag Codes":null
+    },
+    "308":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.93,
+        "Flag Codes":null
+    },
+    "309":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.04,
+        "Flag Codes":null
+    },
+    "310":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.08,
+        "Flag Codes":null
+    },
+    "311":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.23,
+        "Flag Codes":null
+    },
+    "312":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.33,
+        "Flag Codes":null
+    },
+    "313":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.42,
+        "Flag Codes":null
+    },
+    "314":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.46,
+        "Flag Codes":null
+    },
+    "315":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.58,
+        "Flag Codes":null
+    },
+    "316":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.65,
+        "Flag Codes":null
+    },
+    "317":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.73,
+        "Flag Codes":null
+    },
+    "318":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.79,
+        "Flag Codes":null
+    },
+    "319":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.84,
+        "Flag Codes":null
+    },
+    "320":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.85,
+        "Flag Codes":null
+    },
+    "321":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "322":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.93,
+        "Flag Codes":null
+    },
+    "323":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":4.0,
+        "Flag Codes":null
+    },
+    "324":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.11,
+        "Flag Codes":null
+    },
+    "325":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.2,
+        "Flag Codes":null
+    },
+    "326":{
+        "LOCATION":"DNK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.25,
+        "Flag Codes":null
+    }
+}

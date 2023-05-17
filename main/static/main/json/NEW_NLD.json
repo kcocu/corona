@@ -1,0 +1,152 @@
+{
+    "741":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.38,
+        "Flag Codes":null
+    },
+    "742":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.44,
+        "Flag Codes":null
+    },
+    "743":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.51,
+        "Flag Codes":null
+    },
+    "744":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":2.58,
+        "Flag Codes":null
+    },
+    "745":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":2.62,
+        "Flag Codes":null
+    },
+    "746":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":2.65,
+        "Flag Codes":null
+    },
+    "747":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":2.71,
+        "Flag Codes":null
+    },
+    "748":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":2.8,
+        "Flag Codes":null
+    },
+    "749":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":2.79,
+        "Flag Codes":null
+    },
+    "750":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":2.87,
+        "Flag Codes":null
+    },
+    "751":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":2.92,
+        "Flag Codes":null
+    },
+    "752":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.96,
+        "Flag Codes":null
+    },
+    "753":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.13,
+        "Flag Codes":null
+    },
+    "754":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.25,
+        "Flag Codes":null
+    },
+    "755":{
+        "LOCATION":"NLD",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.31,
+        "Flag Codes":null
+    }
+}

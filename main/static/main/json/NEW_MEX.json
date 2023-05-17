@@ -1,0 +1,312 @@
+{
+    "710":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":0.97,
+        "Flag Codes":null
+    },
+    "711":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":1.16,
+        "Flag Codes":null
+    },
+    "712":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":1.31,
+        "Flag Codes":null
+    },
+    "713":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":1.46,
+        "Flag Codes":null
+    },
+    "714":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":1.56,
+        "Flag Codes":null
+    },
+    "715":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":1.65,
+        "Flag Codes":null
+    },
+    "716":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":1.65,
+        "Flag Codes":null
+    },
+    "717":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":1.69,
+        "Flag Codes":null
+    },
+    "718":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":1.71,
+        "Flag Codes":null
+    },
+    "719":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":1.71,
+        "Flag Codes":null
+    },
+    "720":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":1.63,
+        "Flag Codes":null
+    },
+    "721":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":1.52,
+        "Flag Codes":null
+    },
+    "722":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":1.53,
+        "Flag Codes":null
+    },
+    "723":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":1.58,
+        "Flag Codes":null
+    },
+    "724":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":1.66,
+        "Flag Codes":null
+    },
+    "725":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":1.77,
+        "Flag Codes":null
+    },
+    "726":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":1.89,
+        "Flag Codes":null
+    },
+    "727":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":1.93,
+        "Flag Codes":null
+    },
+    "728":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":1.96,
+        "Flag Codes":null
+    },
+    "729":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":1.99,
+        "Flag Codes":null
+    },
+    "730":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.0,
+        "Flag Codes":null
+    },
+    "731":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.11,
+        "Flag Codes":null
+    },
+    "732":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.12,
+        "Flag Codes":null
+    },
+    "733":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.16,
+        "Flag Codes":null
+    },
+    "734":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":2.23,
+        "Flag Codes":null
+    },
+    "735":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":2.33,
+        "Flag Codes":null
+    },
+    "736":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":2.34,
+        "Flag Codes":null
+    },
+    "737":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":2.4,
+        "Flag Codes":null
+    },
+    "738":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":2.44,
+        "Flag Codes":null
+    },
+    "739":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":2.44,
+        "Flag Codes":null
+    },
+    "740":{
+        "LOCATION":"MEX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":2.41,
+        "Flag Codes":null
+    }
+}

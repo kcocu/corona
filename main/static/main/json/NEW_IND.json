@@ -1,0 +1,302 @@
+{
+    "1217":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":0.43,
+        "Flag Codes":"D"
+    },
+    "1218":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":0.44,
+        "Flag Codes":"D"
+    },
+    "1219":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":0.45,
+        "Flag Codes":"D"
+    },
+    "1220":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":0.46,
+        "Flag Codes":"D"
+    },
+    "1221":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":0.47,
+        "Flag Codes":"D"
+    },
+    "1222":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":0.48,
+        "Flag Codes":"D"
+    },
+    "1223":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":0.49,
+        "Flag Codes":"D"
+    },
+    "1224":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":0.5,
+        "Flag Codes":"D"
+    },
+    "1225":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":0.5,
+        "Flag Codes":"D"
+    },
+    "1226":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":0.52,
+        "Flag Codes":"D"
+    },
+    "1227":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":0.53,
+        "Flag Codes":"D"
+    },
+    "1228":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":0.54,
+        "Flag Codes":"D"
+    },
+    "1229":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":0.56,
+        "Flag Codes":"D"
+    },
+    "1230":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":0.56,
+        "Flag Codes":"D"
+    },
+    "1231":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":0.57,
+        "Flag Codes":"D"
+    },
+    "1232":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":0.59,
+        "Flag Codes":"D"
+    },
+    "1233":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":0.6,
+        "Flag Codes":"D"
+    },
+    "1234":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":0.62,
+        "Flag Codes":"D"
+    },
+    "1235":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":0.63,
+        "Flag Codes":"D"
+    },
+    "1236":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":0.65,
+        "Flag Codes":"D"
+    },
+    "1237":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":0.69,
+        "Flag Codes":"D"
+    },
+    "1238":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":0.74,
+        "Flag Codes":"D"
+    },
+    "1239":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":0.7,
+        "Flag Codes":"D"
+    },
+    "1240":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":0.72,
+        "Flag Codes":"D"
+    },
+    "1241":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":0.72,
+        "Flag Codes":"D"
+    },
+    "1242":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":0.73,
+        "Flag Codes":"D"
+    },
+    "1243":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":0.76,
+        "Flag Codes":"D"
+    },
+    "1244":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":0.78,
+        "Flag Codes":"D"
+    },
+    "1245":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":0.85,
+        "Flag Codes":"D"
+    },
+    "1246":{
+        "LOCATION":"IND",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":0.9,
+        "Flag Codes":"D"
+    }
+}

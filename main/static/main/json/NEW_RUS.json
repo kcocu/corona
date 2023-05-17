@@ -1,0 +1,352 @@
+{
+    "1283":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":3.87,
+        "Flag Codes":null
+    },
+    "1284":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":3.94,
+        "Flag Codes":null
+    },
+    "1285":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":4.01,
+        "Flag Codes":null
+    },
+    "1286":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":4.05,
+        "Flag Codes":null
+    },
+    "1287":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":4.1,
+        "Flag Codes":null
+    },
+    "1288":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":4.51,
+        "Flag Codes":null
+    },
+    "1289":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":4.26,
+        "Flag Codes":null
+    },
+    "1290":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":4.29,
+        "Flag Codes":null
+    },
+    "1291":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":4.32,
+        "Flag Codes":null
+    },
+    "1292":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":4.29,
+        "Flag Codes":null
+    },
+    "1293":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":4.41,
+        "Flag Codes":null
+    },
+    "1294":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":4.52,
+        "Flag Codes":null
+    },
+    "1295":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":4.55,
+        "Flag Codes":null
+    },
+    "1296":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":4.6,
+        "Flag Codes":null
+    },
+    "1297":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":4.64,
+        "Flag Codes":null
+    },
+    "1298":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":4.64,
+        "Flag Codes":null
+    },
+    "1299":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":4.64,
+        "Flag Codes":null
+    },
+    "1300":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":4.7,
+        "Flag Codes":null
+    },
+    "1301":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":4.75,
+        "Flag Codes":null
+    },
+    "1302":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":4.79,
+        "Flag Codes":null
+    },
+    "1303":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":4.82,
+        "Flag Codes":null
+    },
+    "1304":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":4.93,
+        "Flag Codes":null
+    },
+    "1305":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":4.98,
+        "Flag Codes":null
+    },
+    "1306":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":4.96,
+        "Flag Codes":null
+    },
+    "1307":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":5.01,
+        "Flag Codes":null
+    },
+    "1308":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":5.03,
+        "Flag Codes":null
+    },
+    "1309":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":4.25,
+        "Flag Codes":"B"
+    },
+    "1310":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":4.03,
+        "Flag Codes":null
+    },
+    "1311":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":4.02,
+        "Flag Codes":null
+    },
+    "1312":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":4.15,
+        "Flag Codes":"B"
+    },
+    "1313":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.9,
+        "Flag Codes":null
+    },
+    "1314":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.94,
+        "Flag Codes":null
+    },
+    "1315":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.04,
+        "Flag Codes":null
+    },
+    "1316":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.09,
+        "Flag Codes":null
+    },
+    "1317":{
+        "LOCATION":"RUS",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.16,
+        "Flag Codes":null
+    }
+}

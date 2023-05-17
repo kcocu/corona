@@ -1,0 +1,232 @@
+{
+    "1318":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "1319":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.13,
+        "Flag Codes":null
+    },
+    "1320":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.15,
+        "Flag Codes":null
+    },
+    "1321":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.17,
+        "Flag Codes":null
+    },
+    "1322":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":2.23,
+        "Flag Codes":null
+    },
+    "1323":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":2.25,
+        "Flag Codes":null
+    },
+    "1324":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":2.3,
+        "Flag Codes":null
+    },
+    "1325":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":2.35,
+        "Flag Codes":null
+    },
+    "1326":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":2.36,
+        "Flag Codes":null
+    },
+    "1327":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":2.39,
+        "Flag Codes":null
+    },
+    "1328":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":2.4,
+        "Flag Codes":null
+    },
+    "1329":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":2.41,
+        "Flag Codes":null
+    },
+    "1330":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.43,
+        "Flag Codes":null
+    },
+    "1331":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.49,
+        "Flag Codes":null
+    },
+    "1332":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.54,
+        "Flag Codes":null
+    },
+    "1333":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.63,
+        "Flag Codes":null
+    },
+    "1334":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":2.77,
+        "Flag Codes":null
+    },
+    "1335":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":2.83,
+        "Flag Codes":null
+    },
+    "1336":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.01,
+        "Flag Codes":null
+    },
+    "1337":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.1,
+        "Flag Codes":null
+    },
+    "1338":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":3.18,
+        "Flag Codes":null
+    },
+    "1339":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":3.26,
+        "Flag Codes":null
+    },
+    "1340":{
+        "LOCATION":"SVN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":3.3,
+        "Flag Codes":null
+    }
+}

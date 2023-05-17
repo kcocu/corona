@@ -1,0 +1,112 @@
+{
+    "537":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.67,
+        "Flag Codes":"E"
+    },
+    "538":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.71,
+        "Flag Codes":"E"
+    },
+    "539":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.67,
+        "Flag Codes":"E"
+    },
+    "540":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":3.01,
+        "Flag Codes":"B"
+    },
+    "541":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.12,
+        "Flag Codes":null
+    },
+    "542":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.19,
+        "Flag Codes":null
+    },
+    "543":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.26,
+        "Flag Codes":null
+    },
+    "544":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":3.28,
+        "Flag Codes":null
+    },
+    "545":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":3.32,
+        "Flag Codes":null
+    },
+    "546":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":3.46,
+        "Flag Codes":null
+    },
+    "547":{
+        "LOCATION":"IRL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":4.05,
+        "Flag Codes":"B"
+    }
+}

@@ -1,0 +1,99 @@
+{% extends "./home.html" %}
+{% load static %}
+<head>
+  {% block script2 %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+  {% endblock script2 %}
+</head>
+{% block header %}
+{% endblock header%}
+{% block title_ %}
+<span class="big">여러 가설 검정</span>...
+{% endblock title_ %}
+{% block content %}
+<section class="headline wrap" >
+  <div class='img_section img_station'>
+    <div class="stations ">
+      <img class="station" src={% static 'main/images/1.png' %}>
+      <img class="station" src={% static 'main/images/2.png' %}>
+      <img class="station" src={% static 'main/images/3.png' %}>
+      <img class="station" src={% static 'main/images/4.png' %}>
+      <img class="station" src={% static 'main/images/5.png' %}>
+      <img class="station" src={% static 'main/images/6.png' %}>
+      <img class="station" src={% static 'main/images/7.png' %}>
+      <img class="station" src={% static 'main/images/8.png' %}>
+      <img class="station" src={% static 'main/images/9.png' %}>
+      <img class="station" src={% static 'main/images/10.png' %}>
+      
+    </div>
+
+  </div>
+  <div>
+    <div>
+      <p class="headline-description">
+        <input class='input_corona' type="text"  placeholder="이곳에서 다른 비율을 검색 가능합니다.">
+        <p>예시 total_deaths, aged_65_older 후 Enter 두 번!</p>
+        <p style='font-size: xx-small; color:#e6e6e6'>
+          data set => 'Value': 1000명 당 의사 수, total_cases_per_million, total_deaths, total_deaths_per_million,
+          total_tests, total_tests_per_thousand, aged_65_older, aged_70_older, gdp_per_capita, extreme_poverty,
+          hospital_beds_per_thousand, human_development_index, total_vaccinations, total_vaccinations_per_hundred,
+          people_vaccinated, people_fully_vaccinated_per_hundred, female_smokers, male_smokers
+        </p> 
+        <hr>
+        <span class="headline-description" id='station_name'>
+          선택한 데이터의 분석을 보여줍니다.
+        </span>
+      
+      </p>
+      <canvas id="myChart"></canvas>
+    </div>
+    <h2 class="headline-heading">
+      데이터 분석
+    </h2>
+    <form>
+      <input type="hidden" id='x_axis_hypothesis' name='x_axis_hypothesis' value=''>
+      <input type="hidden" id='y_axis_hypothesis' name='y_axis_hypothesis' value=''>
+      <input type="submit" value = '결론 확인하러 가기'>
+    </form>
+
+    {% if stat %}
+    <p class="headline-description">
+      <img src="/main/test.png" alt="왜 그래프가 안보일까요?"><br><br>
+      해당 데이터의 피어슨 상관 계수는 {{stat}} 입니다.
+    </p>
+    {% else %}
+    <p class="headline-description">
+      해당 데이터의 피어슨 상관 계수를 구하는 곳입니다.
+    </p>
+    {% endif %}
+    {% if pvalue %}
+    <p class="headline-description">
+      해당 값의 유의 확률은 {{pvalue}} 입니다.
+    </p>
+    {% else %}
+    <p class="headline-description">
+      해당 값의 유의 확률을 보여주는 곳입니다.
+    </p>
+    {% endif %}
+    <p class="headline-description">
+    {% if pvalue > 0.05 %}
+      결론 : 이 값은 유의 확률이 0.05보다 크기 때문에 사용 할 수 없는 데이터 입니다.
+    {% elif stat >= 0.6 or stat <= -0.6 %}
+      결론 : 이 값은 유의 확률이 0.05보다 작고 피어슨 상관계수가 |0.6|이상의 값을 가지고 있기 때문에<br>
+      두 데이터는 밀집한 상관관계를 가지고 있다고 볼 수 있습니다.
+    {% elif stat > 0.4 or stat < 0.4 %}
+      결론 : 이 값은 유의 확률이 0.05보다 작고 피어슨 상관계수가 |0.4|과 |0.6| 사이의 값을 가지고 있기 때문에<br>
+      두 데이터는 서로 약간의 상관관계를 가지고 있다고 볼 수 있습니다.
+    {% elif not stat %}
+      결론을 내리는 곳입니다. _ 데이터 분석을 보고 싶으시면 결론 확인하러 가기를 눌러주세요.
+    {% else %}
+      결론 : 이 값은 유의 확률이 0.05보다 작지만 피어슨 상관계수가 |0.4|보다 작기 때문에<br>
+      두 데이터는 상관관계를 가지고 있다고 보기 어렵습니다..
+    {% endif %}
+    </p>
+  </div>
+{% endblock content %}
+
+{% block script %}
+  <script src ={% static 'main/js/hypothesis.js' %} type = 'text/javascript'></script>
+{% endblock script %}

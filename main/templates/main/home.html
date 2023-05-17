@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>조별과제 2호</title>
+  {% block css %}
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css">
+  <link rel="stylesheet" href={% static 'main/css/style.css' %}>
+
+  {% endblock css %}
+  {% block script2 %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+  {% endblock script2 %}
+  
+  
+
+  
+</head>
+<body>
+  <div>
+    {% include 'main/header.html' %}
+  </div>
+
+  <section class="hero">
+    <div class="hero-heading">
+      <h1>
+        <span class="small">코로나 2년간을 기록하다.</span><br>
+        {% block title_ %}
+        <span class="big">코로나를 통계해보는 사이트</span>...
+        {% endblock title_ %}
+      </h1>
+    </div>
+  </section>
+  {% block content %}
+  <section class="headline wrap" >
+  <body>
+    <div id="world_map" onclick="location.href='{% url 'index' %}';">
+      <canvas width="800" height="400"></canvas>
+    </div>
+  </body>
+  {% endblock content %}
+{% block script %}
+  <script src ={% static 'main/js/home.js' %} type = 'text/javascript'></script>
+{% endblock script %}
+</html>

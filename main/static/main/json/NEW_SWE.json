@@ -1,0 +1,252 @@
+{
+    "917":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":2.82,
+        "Flag Codes":null
+    },
+    "918":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.84,
+        "Flag Codes":null
+    },
+    "919":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":2.85,
+        "Flag Codes":null
+    },
+    "920":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.92,
+        "Flag Codes":null
+    },
+    "921":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.97,
+        "Flag Codes":null
+    },
+    "922":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.03,
+        "Flag Codes":null
+    },
+    "923":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.12,
+        "Flag Codes":null
+    },
+    "924":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.21,
+        "Flag Codes":null
+    },
+    "925":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.28,
+        "Flag Codes":null
+    },
+    "926":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.37,
+        "Flag Codes":null
+    },
+    "927":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.46,
+        "Flag Codes":null
+    },
+    "928":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.54,
+        "Flag Codes":null
+    },
+    "929":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.63,
+        "Flag Codes":null
+    },
+    "930":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.68,
+        "Flag Codes":null
+    },
+    "931":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.75,
+        "Flag Codes":null
+    },
+    "932":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.81,
+        "Flag Codes":null
+    },
+    "933":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.89,
+        "Flag Codes":null
+    },
+    "934":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.97,
+        "Flag Codes":null
+    },
+    "935":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":4.04,
+        "Flag Codes":null
+    },
+    "936":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":4.11,
+        "Flag Codes":null
+    },
+    "937":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":4.18,
+        "Flag Codes":null
+    },
+    "938":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":4.23,
+        "Flag Codes":null
+    },
+    "939":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.27,
+        "Flag Codes":null
+    },
+    "940":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.32,
+        "Flag Codes":null
+    },
+    "941":{
+        "LOCATION":"SWE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.29,
+        "Flag Codes":null
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "382":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":2.76,
+        "Flag Codes":null
+    },
+    "383":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":2.83,
+        "Flag Codes":null
+    },
+    "384":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":2.92,
+        "Flag Codes":null
+    },
+    "385":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":2.99,
+        "Flag Codes":null
+    },
+    "386":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":3.05,
+        "Flag Codes":null
+    },
+    "387":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":3.1,
+        "Flag Codes":null
+    },
+    "388":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":3.12,
+        "Flag Codes":null
+    },
+    "389":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":3.16,
+        "Flag Codes":null
+    },
+    "390":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":3.2,
+        "Flag Codes":null
+    },
+    "391":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.25,
+        "Flag Codes":null
+    },
+    "392":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.29,
+        "Flag Codes":null
+    },
+    "393":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.32,
+        "Flag Codes":null
+    },
+    "394":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.35,
+        "Flag Codes":null
+    },
+    "395":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.37,
+        "Flag Codes":null
+    },
+    "396":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.4,
+        "Flag Codes":null
+    },
+    "397":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.44,
+        "Flag Codes":null
+    },
+    "398":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.49,
+        "Flag Codes":null
+    },
+    "399":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.54,
+        "Flag Codes":null
+    },
+    "400":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.62,
+        "Flag Codes":null
+    },
+    "401":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.71,
+        "Flag Codes":null
+    },
+    "402":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "403":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.95,
+        "Flag Codes":null
+    },
+    "404":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":4.04,
+        "Flag Codes":null
+    },
+    "405":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":4.11,
+        "Flag Codes":null
+    },
+    "406":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":4.14,
+        "Flag Codes":null
+    },
+    "407":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":4.19,
+        "Flag Codes":null
+    },
+    "408":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.25,
+        "Flag Codes":null
+    },
+    "409":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.31,
+        "Flag Codes":null
+    },
+    "410":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.39,
+        "Flag Codes":null
+    },
+    "411":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.47,
+        "Flag Codes":null
+    },
+    "412":{
+        "LOCATION":"DEU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":4.53,
+        "Flag Codes":null
+    }
+}

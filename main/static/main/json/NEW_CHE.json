@@ -1,0 +1,192 @@
+{
+    "942":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.65,
+        "Flag Codes":"E"
+    },
+    "943":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.69,
+        "Flag Codes":"E"
+    },
+    "944":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.74,
+        "Flag Codes":"E"
+    },
+    "945":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.79,
+        "Flag Codes":"E"
+    },
+    "946":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.78,
+        "Flag Codes":"E"
+    },
+    "947":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.82,
+        "Flag Codes":null
+    },
+    "948":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.83,
+        "Flag Codes":null
+    },
+    "949":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.81,
+        "Flag Codes":null
+    },
+    "950":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.83,
+        "Flag Codes":null
+    },
+    "951":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.92,
+        "Flag Codes":null
+    },
+    "952":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":4.04,
+        "Flag Codes":null
+    },
+    "953":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":4.13,
+        "Flag Codes":null
+    },
+    "954":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":4.2,
+        "Flag Codes":null
+    },
+    "955":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":4.25,
+        "Flag Codes":null
+    },
+    "956":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.3,
+        "Flag Codes":null
+    },
+    "957":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.34,
+        "Flag Codes":null
+    },
+    "958":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.35,
+        "Flag Codes":null
+    },
+    "959":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.39,
+        "Flag Codes":null
+    },
+    "960":{
+        "LOCATION":"CHE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":4.45,
+        "Flag Codes":null
+    }
+}

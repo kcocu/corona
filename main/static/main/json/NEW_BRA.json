@@ -1,0 +1,152 @@
+{
+    "1111":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":1.3,
+        "Flag Codes":null
+    },
+    "1112":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":1.41,
+        "Flag Codes":null
+    },
+    "1113":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":1.46,
+        "Flag Codes":null
+    },
+    "1114":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":1.52,
+        "Flag Codes":null
+    },
+    "1115":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":1.5,
+        "Flag Codes":null
+    },
+    "1116":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":1.55,
+        "Flag Codes":null
+    },
+    "1117":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":1.62,
+        "Flag Codes":null
+    },
+    "1118":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":1.71,
+        "Flag Codes":null
+    },
+    "1119":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":1.73,
+        "Flag Codes":null
+    },
+    "1120":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":1.79,
+        "Flag Codes":null
+    },
+    "1121":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":1.86,
+        "Flag Codes":null
+    },
+    "1122":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":1.9,
+        "Flag Codes":null
+    },
+    "1123":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":1.97,
+        "Flag Codes":null
+    },
+    "1124":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":2.05,
+        "Flag Codes":null
+    },
+    "1125":{
+        "LOCATION":"BRA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":2.15,
+        "Flag Codes":null
+    }
+}

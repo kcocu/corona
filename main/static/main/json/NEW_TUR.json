@@ -1,0 +1,612 @@
+{
+    "961":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1960,
+        "Value":0.3,
+        "Flag Codes":null
+    },
+    "962":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1961,
+        "Value":0.32,
+        "Flag Codes":null
+    },
+    "963":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1962,
+        "Value":0.38,
+        "Flag Codes":null
+    },
+    "964":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1963,
+        "Value":0.38,
+        "Flag Codes":null
+    },
+    "965":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1964,
+        "Value":0.33,
+        "Flag Codes":null
+    },
+    "966":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1965,
+        "Value":0.35,
+        "Flag Codes":null
+    },
+    "967":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1966,
+        "Value":0.36,
+        "Flag Codes":null
+    },
+    "968":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1967,
+        "Value":0.36,
+        "Flag Codes":null
+    },
+    "969":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1968,
+        "Value":0.38,
+        "Flag Codes":null
+    },
+    "970":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1969,
+        "Value":0.39,
+        "Flag Codes":null
+    },
+    "971":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1970,
+        "Value":0.39,
+        "Flag Codes":null
+    },
+    "972":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1971,
+        "Value":0.46,
+        "Flag Codes":null
+    },
+    "973":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1972,
+        "Value":0.46,
+        "Flag Codes":null
+    },
+    "974":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1973,
+        "Value":0.49,
+        "Flag Codes":null
+    },
+    "975":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1974,
+        "Value":0.53,
+        "Flag Codes":null
+    },
+    "976":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1975,
+        "Value":0.54,
+        "Flag Codes":null
+    },
+    "977":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1976,
+        "Value":0.56,
+        "Flag Codes":null
+    },
+    "978":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1977,
+        "Value":0.58,
+        "Flag Codes":null
+    },
+    "979":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1978,
+        "Value":0.59,
+        "Flag Codes":null
+    },
+    "980":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1979,
+        "Value":0.6,
+        "Flag Codes":null
+    },
+    "981":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":0.61,
+        "Flag Codes":null
+    },
+    "982":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1981,
+        "Value":0.62,
+        "Flag Codes":null
+    },
+    "983":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1982,
+        "Value":0.66,
+        "Flag Codes":null
+    },
+    "984":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1983,
+        "Value":0.67,
+        "Flag Codes":null
+    },
+    "985":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1984,
+        "Value":0.7,
+        "Flag Codes":null
+    },
+    "986":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":0.73,
+        "Flag Codes":null
+    },
+    "987":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":0.73,
+        "Flag Codes":null
+    },
+    "988":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":0.74,
+        "Flag Codes":null
+    },
+    "989":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":0.79,
+        "Flag Codes":null
+    },
+    "990":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":0.85,
+        "Flag Codes":null
+    },
+    "991":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":0.9,
+        "Flag Codes":null
+    },
+    "992":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":0.95,
+        "Flag Codes":null
+    },
+    "993":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":0.98,
+        "Flag Codes":null
+    },
+    "994":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":1.03,
+        "Flag Codes":null
+    },
+    "995":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":1.09,
+        "Flag Codes":null
+    },
+    "996":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":1.1,
+        "Flag Codes":null
+    },
+    "997":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":1.1,
+        "Flag Codes":null
+    },
+    "998":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":1.12,
+        "Flag Codes":null
+    },
+    "999":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":1.15,
+        "Flag Codes":null
+    },
+    "1000":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":1.2,
+        "Flag Codes":null
+    },
+    "1001":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":1.3,
+        "Flag Codes":null
+    },
+    "1002":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":1.38,
+        "Flag Codes":null
+    },
+    "1003":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":1.39,
+        "Flag Codes":null
+    },
+    "1004":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":1.41,
+        "Flag Codes":null
+    },
+    "1005":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":1.44,
+        "Flag Codes":null
+    },
+    "1006":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":1.47,
+        "Flag Codes":null
+    },
+    "1007":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":1.51,
+        "Flag Codes":null
+    },
+    "1008":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":1.55,
+        "Flag Codes":null
+    },
+    "1009":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":1.59,
+        "Flag Codes":null
+    },
+    "1010":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":1.65,
+        "Flag Codes":null
+    },
+    "1011":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":1.69,
+        "Flag Codes":null
+    },
+    "1012":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":1.7,
+        "Flag Codes":null
+    },
+    "1013":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":1.73,
+        "Flag Codes":null
+    },
+    "1014":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":1.76,
+        "Flag Codes":null
+    },
+    "1015":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":1.76,
+        "Flag Codes":null
+    },
+    "1016":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":1.81,
+        "Flag Codes":null
+    },
+    "1017":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":1.83,
+        "Flag Codes":null
+    },
+    "1018":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":1.87,
+        "Flag Codes":null
+    },
+    "1019":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":1.88,
+        "Flag Codes":"B"
+    },
+    "1020":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":1.95,
+        "Flag Codes":null
+    },
+    "1021":{
+        "LOCATION":"TUR",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":2.05,
+        "Flag Codes":null
+    }
+}

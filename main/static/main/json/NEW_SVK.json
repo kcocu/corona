@@ -1,0 +1,162 @@
+{
+    "873":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.04,
+        "Flag Codes":null
+    },
+    "874":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.17,
+        "Flag Codes":null
+    },
+    "875":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.39,
+        "Flag Codes":null
+    },
+    "876":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.37,
+        "Flag Codes":null
+    },
+    "877":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.3,
+        "Flag Codes":null
+    },
+    "878":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.36,
+        "Flag Codes":null
+    },
+    "879":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.31,
+        "Flag Codes":null
+    },
+    "880":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.36,
+        "Flag Codes":null
+    },
+    "881":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.39,
+        "Flag Codes":null
+    },
+    "882":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":3.43,
+        "Flag Codes":null
+    },
+    "883":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.45,
+        "Flag Codes":null
+    },
+    "884":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.47,
+        "Flag Codes":null
+    },
+    "885":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.42,
+        "Flag Codes":null
+    },
+    "886":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":3.52,
+        "Flag Codes":null
+    },
+    "887":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":3.57,
+        "Flag Codes":null
+    },
+    "888":{
+        "LOCATION":"SVK",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":3.67,
+        "Flag Codes":null
+    }
+}

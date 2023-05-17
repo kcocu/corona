@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+{% extends "./home.html" %}
+{% load static %}
+{% block header %}
+{% endblock header%}
+{% block title_ %}
+<span class="big">각 나라 의사 수의 변화</span>...
+{% endblock title_ %}
+{% block content %}
+
+  <section class="headline wrap" >
+    <form id='new_contry_form' name ='new_contry_form' onsubmit='return false;'>
+      <select name="new_contry">
+        <option value="NEW_KOR" selected>한국</option>
+        <option value="NEW_AUS">호주</option>
+        <option value="NEW_AUT">오스트리아</option>
+        <option value="NEW_BEL">벨기에</option>
+        <option value="NEW_BRA">브라질</option>
+        <option value="NEW_CAN">캐나다</option>
+        <option value="NEW_CHE">스위스</option>
+        <option value="NEW_CHN">중국</option>
+        <option value="NEW_CZE">체코</option>
+        <option value="NEW_DEU">독일</option>
+        <option value="NEW_DNK">덴마크</option>
+        <option value="NEW_ESP">스페인</option>
+        <option value="NEW_EST">에스토니아</option>
+        <option value="NEW_FIN">핀란드</option>
+        <option value="NEW_FRA">프랑스</option>
+        <option value="NEW_GBR">영국</option>
+        <option value="NEW_HUN">헝가리</option>
+        <option value="NEW_IDN">인도네시아</option>
+        <option value="NEW_IRL">아일랜드</option>
+        <option value="NEW_ISL">아이슬란드</option>
+        <option value="NEW_ISR">이스라엘</option>
+        <option value="NEW_ITA">이탈리아</option>
+        <option value="NEW_JPN">일본</option>
+        <option value="NEW_LTU">리투아니아</option>
+        <option value="NEW_LUX">룩셈부르크</option>
+        <option value="NEW_LVA">라트비아</option>
+        <option value="NEW_MEX">멕시코</option>
+        <option value="NEW_NLD">네덜란드</option>
+        <option value="NEW_NOR">노르웨이</option>
+        <option value="NEW_NZL">뉴질랜드</option>
+        <option value="NEW_POL">폴란드</option>
+        <option value="NEW_RUS">러시아</option>
+        <option value="NEW_SVK">슬로바키아</option>
+        <option value="NEW_SVN">슬로베니아</option>
+        <option value="NEW_SWE">스웨덴</option>
+        <option value="NEW_TUR">튀르키예</option>
+        <option value="NEW_USA">미국</option>
+        <option value="NEW_ZAF">남아공</option>
+      </select>
+      <input type="submit" id='new_contry_send' value='보기'>
+    </form>
+    <canvas id="myChart"></canvas>
+    <div>
+      <h2 class="headline-heading">
+        데이터 분석
+      </h2>
+      <p class="headline-description" id='country_name_now'>
+        <span class="headline-description" id='Korean_contry_name'>
+          한국의 
+        </span>
+      1,000명당 의사 수의 변화입니다.
+      </p>
+      <p class="headline-description">
+        해당 국가의 피어슨 상관 계수는
+        <span class="headline-description" id='PearsonP'>
+          0.997568689 이며 <br> 이 값은 0.5 보다 크므로 유의미한 상관관계를 갖습니다.
+        </span>
+      </p>
+      <p class="headline-description">
+        해당 값의 유의 확률은
+        <span class="headline-description" id='PearsonP_Pvalue'>
+          1.414810028e-45이며 <br> 이 값은 0.05보다 작으므로 우연히 일어날 가능성은 작다고 할 수 있습니다.
+        </span>
+      </p>
+{% endblock content %}
+
+{% block script %}
+  <script src ={% static 'main/js/main.js' %} type = 'text/javascript'></script>
+{% endblock script %}
+
+

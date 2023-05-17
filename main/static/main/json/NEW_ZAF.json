@@ -1,0 +1,142 @@
+{
+    "1341":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":0.74,
+        "Flag Codes":"D"
+    },
+    "1342":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":0.7,
+        "Flag Codes":"D"
+    },
+    "1343":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":0.7,
+        "Flag Codes":"D"
+    },
+    "1344":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":0.71,
+        "Flag Codes":"D"
+    },
+    "1345":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":0.72,
+        "Flag Codes":"D"
+    },
+    "1346":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":0.72,
+        "Flag Codes":"D"
+    },
+    "1347":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":0.73,
+        "Flag Codes":"D"
+    },
+    "1348":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":0.74,
+        "Flag Codes":"D"
+    },
+    "1349":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":0.75,
+        "Flag Codes":"D"
+    },
+    "1350":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":0.78,
+        "Flag Codes":"D"
+    },
+    "1351":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":0.77,
+        "Flag Codes":"D"
+    },
+    "1352":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":0.78,
+        "Flag Codes":"D"
+    },
+    "1353":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":0.75,
+        "Flag Codes":"D"
+    },
+    "1354":{
+        "LOCATION":"ZAF",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":0.79,
+        "Flag Codes":"D"
+    }
+}

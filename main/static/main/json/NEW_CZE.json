@@ -1,0 +1,472 @@
+{
+    "240":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1970,
+        "Value":1.78,
+        "Flag Codes":null
+    },
+    "241":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1971,
+        "Value":1.87,
+        "Flag Codes":null
+    },
+    "242":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1972,
+        "Value":1.91,
+        "Flag Codes":null
+    },
+    "243":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1973,
+        "Value":1.94,
+        "Flag Codes":null
+    },
+    "244":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1974,
+        "Value":1.98,
+        "Flag Codes":null
+    },
+    "245":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1975,
+        "Value":2.01,
+        "Flag Codes":null
+    },
+    "246":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1976,
+        "Value":2.05,
+        "Flag Codes":null
+    },
+    "247":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1977,
+        "Value":2.1,
+        "Flag Codes":null
+    },
+    "248":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1978,
+        "Value":2.14,
+        "Flag Codes":null
+    },
+    "249":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1979,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "250":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":2.26,
+        "Flag Codes":null
+    },
+    "251":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1981,
+        "Value":2.32,
+        "Flag Codes":null
+    },
+    "252":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1982,
+        "Value":2.38,
+        "Flag Codes":null
+    },
+    "253":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1983,
+        "Value":2.45,
+        "Flag Codes":null
+    },
+    "254":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1984,
+        "Value":2.5,
+        "Flag Codes":null
+    },
+    "255":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":2.58,
+        "Flag Codes":null
+    },
+    "256":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":2.61,
+        "Flag Codes":null
+    },
+    "257":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":2.62,
+        "Flag Codes":null
+    },
+    "258":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":2.7,
+        "Flag Codes":null
+    },
+    "259":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":2.72,
+        "Flag Codes":null
+    },
+    "260":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":2.71,
+        "Flag Codes":null
+    },
+    "261":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":2.67,
+        "Flag Codes":null
+    },
+    "262":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":2.68,
+        "Flag Codes":null
+    },
+    "263":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":2.86,
+        "Flag Codes":null
+    },
+    "264":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":2.93,
+        "Flag Codes":null
+    },
+    "265":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":3.0,
+        "Flag Codes":null
+    },
+    "266":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.98,
+        "Flag Codes":null
+    },
+    "267":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":3.11,
+        "Flag Codes":null
+    },
+    "268":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":3.03,
+        "Flag Codes":null
+    },
+    "269":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":3.08,
+        "Flag Codes":null
+    },
+    "270":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.37,
+        "Flag Codes":"B"
+    },
+    "271":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.45,
+        "Flag Codes":null
+    },
+    "272":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.51,
+        "Flag Codes":null
+    },
+    "273":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.53,
+        "Flag Codes":null
+    },
+    "274":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.52,
+        "Flag Codes":null
+    },
+    "275":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.56,
+        "Flag Codes":null
+    },
+    "276":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.57,
+        "Flag Codes":null
+    },
+    "277":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.57,
+        "Flag Codes":null
+    },
+    "278":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.56,
+        "Flag Codes":null
+    },
+    "279":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.58,
+        "Flag Codes":null
+    },
+    "280":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.6,
+        "Flag Codes":null
+    },
+    "281":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.64,
+        "Flag Codes":null
+    },
+    "282":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.67,
+        "Flag Codes":null
+    },
+    "283":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.69,
+        "Flag Codes":null
+    },
+    "284":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.04,
+        "Flag Codes":null
+    },
+    "285":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.07,
+        "Flag Codes":"E"
+    },
+    "286":{
+        "LOCATION":"CZE",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.1,
+        "Flag Codes":"E"
+    }
+}

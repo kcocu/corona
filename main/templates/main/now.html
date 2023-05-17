@@ -1,0 +1,50 @@
+{% extends "./home.html" %}
+{% load static %}
+{% block header %}
+{% endblock header%}
+{% block script2 %}
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+{% endblock script2 %}
+{% block title_ %}
+  <span class="big">실시간 코로나</span>...
+{% endblock title_ %}
+{% block content %}
+  <section class="headline wrap" >
+  <body>
+    <p>코로나 Now는 매일 15:00에 자동으로 최신화 됩니다. <br>
+      글로벌 데이터는 3일전 데이터(GMT 2일전)가 반영됩니다. <br>
+      아래 지도는 beta 버전으로 새 지도를 검색시 'clear'를 입력시 초기화 됩니다.
+    </p>
+    <div id="world_map">
+      <h2 id = 'showCase'></h2>
+      <input class='input_corona' type="text" placeholder='이곳에 국가별 영어표시를 입력해주세요. ex) KOR, USA'>
+      <canvas width="800" height="400"></canvas>
+      <svg id="my_dataviz" width="400" height="300"></svg>
+      
+      
+    </div>
+    <div id='table_now'>
+
+      <canvas id="myChart1"></canvas>
+      <select id="data_choice">
+        <option value="all" >한국 코로나 총 수치</option>
+        <option value="now" selected>한국 코로나 하루 증가량</option>
+      </select>
+      <div id='my_total'>
+        <p>
+          코로나 하루 증가량을 파이그래프로도 확인 가능합니다.</p>
+      </div>
+      <hr>
+      <select id="graph_choice">
+        <option value="pie" >파이 그래프</option>
+        <option value="bar" selected>바 그래프</option>
+      </select>
+    </div>
+  </body>
+{% endblock content %}
+
+{% block script %}
+  <script src ={% static 'main/js/now.js' %} type = 'module'></script>
+{% endblock script %}

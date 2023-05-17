@@ -1,0 +1,105 @@
+{% extends "./home.html" %}
+{% load static %}
+{% block script2 %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+{% endblock script2 %}
+{% block header %}
+{% endblock header%}
+{% block title_ %}
+<span class="big">인종, 성별, 나이별 분석</span>...
+{% endblock title_ %}
+{% block content %}
+<section class="headline wrap" >
+  <div>
+    <form>
+      <label><input type="radio" name="rsa" id="race" value='Race/ethnicity'>Race</label>
+      <label><input type="radio" name="rsa" id="sex" value='Sex'>Sex</label>
+      <label><input type="radio" name="rsa" id="age" value='Age'>Age</label>
+      <br><br>
+      <label><input type="radio" name="state" id="confirmed" value='CONFIRMED_CASE_RATE'>CONFIRMED</label>
+      <label><input type="radio" name="state" id="hospitalized" value='HOSPITALIZED_RATE'>HOSPITALIZED</label>
+      <label><input type="radio" name="state" id="death" value='DEATH_RATE'>DEATH</label>
+      <input type="submit" value='보기'>
+    </form>
+    <p class="headline-description">
+      {% if title and title2 %}
+      <span class="headline-description" id='station_name'>
+        {{title}}에 따른 
+        {{title2}}의 상관 관계 그래표
+      </span>
+      <br><br>
+      
+
+      <div>
+        <input type="button" id="btn_xhtml" value='표 접기/펴기'>
+        <hr>
+        <div id='change_div_display' style = 'display:none'>
+          {{  x_html|safe  }}
+        </div>
+      </div>
+
+      <br>
+      <hr>
+      <br>
+      <form id='people_data'>
+        <input type="hidden" id = 'people_title' value={{title}}>
+        <input type="hidden" id = 'people_title2' value={{title2}}>
+        <input type="hidden" value={{stat}}>
+        <input type="hidden" value={{pvalue}}>
+        <input type="hidden" value={{test_name}}>
+        
+        <div class='none'>
+          <span id='xCal'>{{  x_html  }}</span>
+          <span id='x_index'>{{x_index}}</span>
+          <span id='y_mean'>{{y_mean}}</span>
+        </div>
+        <input type="submit" value = '그래프 보기'>
+        <br><br><br><hr>
+      </form>
+      <div id='change_div_display2' style = 'display:none'>
+        <canvas id="myChart"></canvas>
+        <br><br>
+      </div>
+      <br><br>
+      {% if test_name == 'F검정' %}
+        {{title}}은 세 종류 이상의 데이터로 나뉘어져 있습니다. <br>
+        이 경우 F 검정을 사용해 분석합니다.
+      {% else %}
+        {{title}}은 남, 녀 두 종류로 나뉘어져 있습니다. <br>
+        두 가지의 데이터를 분석시에는 T 검정을 사용합니다.
+      {% endif %}
+      <br><br>
+      이 데이터는 유의 확률이 '{{pvalue}}',<br>
+      값이 '{{stat}}'인 데이터 입니다. <br><br>
+
+      {% if pvalue > 0.05 %}
+        결론 : 이 값은 유의 확률이 0.05보다 크기 때문에 사용 할 수 없는 데이터 입니다.
+      {% elif stat >= 10 %}
+        결론 : 이 값은 유의 확률이 0.05보다 작고 10 이상의 엄청난 값의 차이를 가지고 있습니다.<br>
+        두 데이터 간의 차이가 크게 있다고 볼 수 있습니다.
+      {% elif stat >= 2 %}
+        결론 : 이 값은 유의 확률이 0.05보다 작고 2 이상의 차이를 가지고 있습니다.<br>
+        두 데이터 간의 유의미한 차이가 있다고 볼 수 있습니다.
+      {% else %}
+        결론을 내리는 곳입니다. _ 데이터 분석을 보고 싶으시면 결론 확인하러 가기를 눌러주세요.
+      {% endif %}
+      <canvas id="myChart"></canvas>
+      {% else %}
+      <span class="headline-description" id='station_name'>
+        선택한 데이터의 분석을 보여줍니다.
+      </span>
+      {% endif %}
+    
+    </p>
+    <br><hr>
+    <br>
+
+  </div>
+  <div>
+
+  </div>
+{% endblock content %}
+
+{% block script %}
+  <script src ={% static 'main/js/people.js' %} type = 'text/javascript'></script>
+{% endblock script %}

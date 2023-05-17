@@ -1,0 +1,112 @@
+{
+    "1247":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":0.06,
+        "Flag Codes":null
+    },
+    "1248":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":0.13,
+        "Flag Codes":null
+    },
+    "1249":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":0.26,
+        "Flag Codes":null
+    },
+    "1250":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":0.24,
+        "Flag Codes":null
+    },
+    "1251":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":0.31,
+        "Flag Codes":null
+    },
+    "1252":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":0.31,
+        "Flag Codes":null
+    },
+    "1253":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":0.28,
+        "Flag Codes":null
+    },
+    "1254":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":0.38,
+        "Flag Codes":null
+    },
+    "1255":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":0.43,
+        "Flag Codes":null
+    },
+    "1256":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":0.47,
+        "Flag Codes":null
+    },
+    "1257":{
+        "LOCATION":"IDN",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":0.63,
+        "Flag Codes":null
+    }
+}

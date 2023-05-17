@@ -1,0 +1,292 @@
+{
+    "1386":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":3.58,
+        "Flag Codes":null
+    },
+    "1387":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":3.61,
+        "Flag Codes":null
+    },
+    "1388":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":3.69,
+        "Flag Codes":null
+    },
+    "1389":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":3.68,
+        "Flag Codes":null
+    },
+    "1390":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":3.72,
+        "Flag Codes":null
+    },
+    "1391":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":3.76,
+        "Flag Codes":null
+    },
+    "1392":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":3.72,
+        "Flag Codes":null
+    },
+    "1393":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":3.71,
+        "Flag Codes":null
+    },
+    "1394":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.63,
+        "Flag Codes":null
+    },
+    "1395":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.63,
+        "Flag Codes":null
+    },
+    "1396":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.7,
+        "Flag Codes":null
+    },
+    "1397":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.67,
+        "Flag Codes":null
+    },
+    "1398":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.63,
+        "Flag Codes":null
+    },
+    "1399":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.72,
+        "Flag Codes":null
+    },
+    "1400":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.79,
+        "Flag Codes":null
+    },
+    "1401":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "1402":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "1403":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.85,
+        "Flag Codes":null
+    },
+    "1404":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.95,
+        "Flag Codes":null
+    },
+    "1405":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":4.1,
+        "Flag Codes":null
+    },
+    "1406":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":4.22,
+        "Flag Codes":null
+    },
+    "1407":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":4.28,
+        "Flag Codes":null
+    },
+    "1408":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":4.31,
+        "Flag Codes":null
+    },
+    "1409":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":4.34,
+        "Flag Codes":null
+    },
+    "1410":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":4.47,
+        "Flag Codes":null
+    },
+    "1411":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":4.56,
+        "Flag Codes":null
+    },
+    "1412":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.6,
+        "Flag Codes":null
+    },
+    "1413":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.57,
+        "Flag Codes":null
+    },
+    "1414":{
+        "LOCATION":"LTU",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.48,
+        "Flag Codes":null
+    }
+}

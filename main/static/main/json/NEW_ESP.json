@@ -1,0 +1,282 @@
+{
+    "889":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":1.84,
+        "Flag Codes":null
+    },
+    "890":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":2.05,
+        "Flag Codes":null
+    },
+    "891":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":2.05,
+        "Flag Codes":null
+    },
+    "892":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.75,
+        "Flag Codes":null
+    },
+    "893":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":2.87,
+        "Flag Codes":null
+    },
+    "894":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.92,
+        "Flag Codes":null
+    },
+    "895":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":3.05,
+        "Flag Codes":null
+    },
+    "896":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.14,
+        "Flag Codes":null
+    },
+    "897":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.14,
+        "Flag Codes":null
+    },
+    "898":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.13,
+        "Flag Codes":null
+    },
+    "899":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.22,
+        "Flag Codes":null
+    },
+    "900":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.44,
+        "Flag Codes":null
+    },
+    "901":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.55,
+        "Flag Codes":null
+    },
+    "902":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.62,
+        "Flag Codes":null
+    },
+    "903":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.56,
+        "Flag Codes":null
+    },
+    "904":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.54,
+        "Flag Codes":null
+    },
+    "905":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.6,
+        "Flag Codes":null
+    },
+    "906":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.76,
+        "Flag Codes":null
+    },
+    "907":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.84,
+        "Flag Codes":null
+    },
+    "908":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.82,
+        "Flag Codes":null
+    },
+    "909":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.81,
+        "Flag Codes":null
+    },
+    "910":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":3.8,
+        "Flag Codes":null
+    },
+    "911":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.85,
+        "Flag Codes":null
+    },
+    "912":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.82,
+        "Flag Codes":null
+    },
+    "913":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "914":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":4.02,
+        "Flag Codes":null
+    },
+    "915":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.4,
+        "Flag Codes":null
+    },
+    "916":{
+        "LOCATION":"ESP",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.58,
+        "Flag Codes":null
+    }
+}

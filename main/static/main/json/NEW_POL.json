@@ -1,0 +1,592 @@
+{
+    "814":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1960,
+        "Value":0.97,
+        "Flag Codes":null
+    },
+    "815":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1961,
+        "Value":1.03,
+        "Flag Codes":null
+    },
+    "816":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1962,
+        "Value":1.07,
+        "Flag Codes":null
+    },
+    "817":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1963,
+        "Value":1.15,
+        "Flag Codes":null
+    },
+    "818":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1964,
+        "Value":1.21,
+        "Flag Codes":null
+    },
+    "819":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1965,
+        "Value":1.24,
+        "Flag Codes":null
+    },
+    "820":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1966,
+        "Value":1.28,
+        "Flag Codes":null
+    },
+    "821":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1967,
+        "Value":1.32,
+        "Flag Codes":null
+    },
+    "822":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1968,
+        "Value":1.36,
+        "Flag Codes":null
+    },
+    "823":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1969,
+        "Value":1.38,
+        "Flag Codes":null
+    },
+    "824":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1970,
+        "Value":1.42,
+        "Flag Codes":null
+    },
+    "825":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1971,
+        "Value":1.47,
+        "Flag Codes":null
+    },
+    "826":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1972,
+        "Value":1.51,
+        "Flag Codes":null
+    },
+    "827":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1973,
+        "Value":1.55,
+        "Flag Codes":null
+    },
+    "828":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1974,
+        "Value":1.59,
+        "Flag Codes":null
+    },
+    "829":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1975,
+        "Value":1.6,
+        "Flag Codes":null
+    },
+    "830":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1976,
+        "Value":1.62,
+        "Flag Codes":null
+    },
+    "831":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1977,
+        "Value":1.65,
+        "Flag Codes":null
+    },
+    "832":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1978,
+        "Value":1.69,
+        "Flag Codes":null
+    },
+    "833":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1979,
+        "Value":1.74,
+        "Flag Codes":null
+    },
+    "834":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":1.79,
+        "Flag Codes":null
+    },
+    "835":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1981,
+        "Value":1.81,
+        "Flag Codes":null
+    },
+    "836":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1982,
+        "Value":1.85,
+        "Flag Codes":null
+    },
+    "837":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1983,
+        "Value":1.89,
+        "Flag Codes":null
+    },
+    "838":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1984,
+        "Value":1.92,
+        "Flag Codes":null
+    },
+    "839":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":1.97,
+        "Flag Codes":null
+    },
+    "840":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":2.01,
+        "Flag Codes":null
+    },
+    "841":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":2.06,
+        "Flag Codes":null
+    },
+    "842":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":2.08,
+        "Flag Codes":null
+    },
+    "843":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":2.09,
+        "Flag Codes":null
+    },
+    "844":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":2.14,
+        "Flag Codes":null
+    },
+    "845":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":2.17,
+        "Flag Codes":null
+    },
+    "846":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":2.18,
+        "Flag Codes":null
+    },
+    "847":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":2.22,
+        "Flag Codes":null
+    },
+    "848":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":2.28,
+        "Flag Codes":null
+    },
+    "849":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":2.32,
+        "Flag Codes":null
+    },
+    "850":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.35,
+        "Flag Codes":null
+    },
+    "851":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":2.36,
+        "Flag Codes":null
+    },
+    "852":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.33,
+        "Flag Codes":null
+    },
+    "853":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.26,
+        "Flag Codes":null
+    },
+    "854":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.22,
+        "Flag Codes":null
+    },
+    "855":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.27,
+        "Flag Codes":null
+    },
+    "856":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":2.3,
+        "Flag Codes":null
+    },
+    "857":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":2.43,
+        "Flag Codes":"B"
+    },
+    "858":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":2.29,
+        "Flag Codes":"B"
+    },
+    "859":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":2.14,
+        "Flag Codes":"B"
+    },
+    "860":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":2.18,
+        "Flag Codes":null
+    },
+    "861":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "862":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":2.16,
+        "Flag Codes":null
+    },
+    "863":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":2.17,
+        "Flag Codes":null
+    },
+    "864":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "865":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.21,
+        "Flag Codes":null
+    },
+    "866":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.23,
+        "Flag Codes":null
+    },
+    "867":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.24,
+        "Flag Codes":null
+    },
+    "868":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":2.31,
+        "Flag Codes":null
+    },
+    "869":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":2.33,
+        "Flag Codes":null
+    },
+    "870":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":2.42,
+        "Flag Codes":null
+    },
+    "871":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":2.38,
+        "Flag Codes":null
+    },
+    "872":{
+        "LOCATION":"POL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":3.3,
+        "Flag Codes":null
+    }
+}

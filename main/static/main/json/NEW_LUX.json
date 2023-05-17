@@ -1,0 +1,582 @@
+{
+    "652":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1960,
+        "Value":1.01,
+        "Flag Codes":null
+    },
+    "653":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1961,
+        "Value":1.02,
+        "Flag Codes":null
+    },
+    "654":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1962,
+        "Value":1.02,
+        "Flag Codes":null
+    },
+    "655":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1963,
+        "Value":1.02,
+        "Flag Codes":null
+    },
+    "656":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1964,
+        "Value":1.01,
+        "Flag Codes":null
+    },
+    "657":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1965,
+        "Value":1.02,
+        "Flag Codes":null
+    },
+    "658":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1966,
+        "Value":1.04,
+        "Flag Codes":null
+    },
+    "659":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1967,
+        "Value":1.04,
+        "Flag Codes":null
+    },
+    "660":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1968,
+        "Value":1.07,
+        "Flag Codes":null
+    },
+    "661":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1969,
+        "Value":1.08,
+        "Flag Codes":null
+    },
+    "662":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1970,
+        "Value":1.13,
+        "Flag Codes":null
+    },
+    "663":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1971,
+        "Value":1.16,
+        "Flag Codes":null
+    },
+    "664":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1972,
+        "Value":1.16,
+        "Flag Codes":null
+    },
+    "665":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1973,
+        "Value":1.17,
+        "Flag Codes":null
+    },
+    "666":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1974,
+        "Value":1.2,
+        "Flag Codes":null
+    },
+    "667":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1975,
+        "Value":1.26,
+        "Flag Codes":null
+    },
+    "668":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1976,
+        "Value":1.26,
+        "Flag Codes":null
+    },
+    "669":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1977,
+        "Value":1.26,
+        "Flag Codes":null
+    },
+    "670":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1978,
+        "Value":1.46,
+        "Flag Codes":null
+    },
+    "671":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1979,
+        "Value":1.58,
+        "Flag Codes":null
+    },
+    "672":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1980,
+        "Value":1.71,
+        "Flag Codes":null
+    },
+    "673":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1981,
+        "Value":1.54,
+        "Flag Codes":null
+    },
+    "674":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1982,
+        "Value":1.66,
+        "Flag Codes":null
+    },
+    "675":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1983,
+        "Value":1.71,
+        "Flag Codes":null
+    },
+    "676":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1984,
+        "Value":1.74,
+        "Flag Codes":null
+    },
+    "677":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1985,
+        "Value":1.81,
+        "Flag Codes":null
+    },
+    "678":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1986,
+        "Value":1.86,
+        "Flag Codes":null
+    },
+    "679":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1987,
+        "Value":1.8,
+        "Flag Codes":null
+    },
+    "680":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1988,
+        "Value":1.9,
+        "Flag Codes":null
+    },
+    "681":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1989,
+        "Value":1.97,
+        "Flag Codes":null
+    },
+    "682":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1990,
+        "Value":2.01,
+        "Flag Codes":null
+    },
+    "683":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1991,
+        "Value":2.02,
+        "Flag Codes":null
+    },
+    "684":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1992,
+        "Value":2.08,
+        "Flag Codes":null
+    },
+    "685":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1993,
+        "Value":2.13,
+        "Flag Codes":null
+    },
+    "686":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1994,
+        "Value":2.16,
+        "Flag Codes":null
+    },
+    "687":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1995,
+        "Value":2.24,
+        "Flag Codes":null
+    },
+    "688":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1996,
+        "Value":2.31,
+        "Flag Codes":null
+    },
+    "689":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1997,
+        "Value":2.4,
+        "Flag Codes":null
+    },
+    "690":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1998,
+        "Value":2.44,
+        "Flag Codes":null
+    },
+    "691":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":1999,
+        "Value":2.49,
+        "Flag Codes":null
+    },
+    "692":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.15,
+        "Flag Codes":"B"
+    },
+    "693":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.21,
+        "Flag Codes":null
+    },
+    "694":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":2.26,
+        "Flag Codes":null
+    },
+    "695":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":2.38,
+        "Flag Codes":null
+    },
+    "696":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":2.42,
+        "Flag Codes":null
+    },
+    "697":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":2.55,
+        "Flag Codes":null
+    },
+    "698":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":2.61,
+        "Flag Codes":null
+    },
+    "699":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":2.68,
+        "Flag Codes":null
+    },
+    "700":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":2.72,
+        "Flag Codes":null
+    },
+    "701":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":2.7,
+        "Flag Codes":null
+    },
+    "702":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.77,
+        "Flag Codes":null
+    },
+    "703":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.78,
+        "Flag Codes":null
+    },
+    "704":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.81,
+        "Flag Codes":null
+    },
+    "705":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.83,
+        "Flag Codes":null
+    },
+    "706":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":2.88,
+        "Flag Codes":null
+    },
+    "707":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":2.91,
+        "Flag Codes":"B"
+    },
+    "708":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":2.88,
+        "Flag Codes":null
+    },
+    "709":{
+        "LOCATION":"LUX",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":2.98,
+        "Flag Codes":null
+    }
+}

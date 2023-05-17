@@ -1,0 +1,222 @@
+{
+    "756":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":2.23,
+        "Flag Codes":null
+    },
+    "757":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "758":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":2.13,
+        "Flag Codes":null
+    },
+    "759":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":2.17,
+        "Flag Codes":null
+    },
+    "760":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":2.19,
+        "Flag Codes":null
+    },
+    "761":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":2.11,
+        "Flag Codes":null
+    },
+    "762":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":2.27,
+        "Flag Codes":null
+    },
+    "763":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":2.3,
+        "Flag Codes":null
+    },
+    "764":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":2.46,
+        "Flag Codes":null
+    },
+    "765":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":2.58,
+        "Flag Codes":null
+    },
+    "766":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":2.62,
+        "Flag Codes":null
+    },
+    "767":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":2.65,
+        "Flag Codes":null
+    },
+    "768":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":2.72,
+        "Flag Codes":null
+    },
+    "769":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":2.83,
+        "Flag Codes":null
+    },
+    "770":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":2.89,
+        "Flag Codes":null
+    },
+    "771":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.03,
+        "Flag Codes":"E"
+    },
+    "772":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.12,
+        "Flag Codes":"E"
+    },
+    "773":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.25,
+        "Flag Codes":"E"
+    },
+    "774":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":3.31,
+        "Flag Codes":"E"
+    },
+    "775":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":3.38,
+        "Flag Codes":"E"
+    },
+    "776":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":3.43,
+        "Flag Codes":"E"
+    },
+    "777":{
+        "LOCATION":"NZL",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":3.53,
+        "Flag Codes":"E"
+    }
+}

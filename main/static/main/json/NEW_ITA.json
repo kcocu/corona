@@ -1,0 +1,222 @@
+{
+    "548":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2000,
+        "Value":3.44,
+        "Flag Codes":"E"
+    },
+    "549":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2001,
+        "Value":3.51,
+        "Flag Codes":"E"
+    },
+    "550":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2002,
+        "Value":3.57,
+        "Flag Codes":"E"
+    },
+    "551":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2003,
+        "Value":3.63,
+        "Flag Codes":"E"
+    },
+    "552":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2004,
+        "Value":3.7,
+        "Flag Codes":"E"
+    },
+    "553":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2005,
+        "Value":3.72,
+        "Flag Codes":"E"
+    },
+    "554":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2006,
+        "Value":3.72,
+        "Flag Codes":"E"
+    },
+    "555":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2007,
+        "Value":3.8,
+        "Flag Codes":"E"
+    },
+    "556":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2008,
+        "Value":3.79,
+        "Flag Codes":"E"
+    },
+    "557":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2009,
+        "Value":3.79,
+        "Flag Codes":"E"
+    },
+    "558":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2010,
+        "Value":3.82,
+        "Flag Codes":"E"
+    },
+    "559":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2011,
+        "Value":3.9,
+        "Flag Codes":"E"
+    },
+    "560":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2012,
+        "Value":3.87,
+        "Flag Codes":null
+    },
+    "561":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2013,
+        "Value":3.9,
+        "Flag Codes":null
+    },
+    "562":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2014,
+        "Value":3.88,
+        "Flag Codes":null
+    },
+    "563":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2015,
+        "Value":3.84,
+        "Flag Codes":null
+    },
+    "564":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2016,
+        "Value":3.95,
+        "Flag Codes":null
+    },
+    "565":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2017,
+        "Value":3.99,
+        "Flag Codes":null
+    },
+    "566":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2018,
+        "Value":3.98,
+        "Flag Codes":null
+    },
+    "567":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2019,
+        "Value":4.05,
+        "Flag Codes":null
+    },
+    "568":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2020,
+        "Value":4.0,
+        "Flag Codes":null
+    },
+    "569":{
+        "LOCATION":"ITA",
+        "INDICATOR":"MEDICALDOC",
+        "SUBJECT":"TOT",
+        "MEASURE":"1000HAB",
+        "FREQUENCY":"A",
+        "TIME":2021,
+        "Value":4.13,
+        "Flag Codes":"P"
+    }
+}
